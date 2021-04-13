@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nyheim
+- 👀 I’m interested in Software Engineering and Frontend Development!
+- 🌱 I’m currently learning Python and PostGresSQL.
+- 📫 The best way to reach me is NyheimHunter@gmail.com
