@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nyheim
-- 👀 I’m interested in Software Engineering and Frontend Development!
-- 🌱 I’m currently learning Python and PostGresSQL.
-- 📫 The best way to reach me is NyheimHunter@gmail.com
+- 👋  Hi, I’m Nyheim Hunter
+- 👀  I’m interested in Software Engineering whether Frontend, Backend, or Full Stack. 
+- 🌱  I’m currently learning Python, and improving my current applications.
+- 📫  The best way to reach me is NyheimHunter@gmail.com or LinkedIn (https://www.linkedin.com/in/nyheimhunter/).
