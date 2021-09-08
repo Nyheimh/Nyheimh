@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nyheim Hunter</h1>
-<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have an extensive knowledge in Javascript, React, Node.Js, and Ruby on Rails.</h3>
+<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have an extensive knowledge in HTML, CSS, Javascript, React, Node.Js, and Ruby on Rails.</h3>
 
 - 🔭 I’m currently working on **a realtime react native application.**
 
