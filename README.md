@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R_BPVaJ9NnlOWjku8_CCjyfaPxg7GlbR/view?usp=sharing](Nyheim Hunter's Resume)
-
 - ⚡ Fun fact **I love plants, animals, and being outdoorsy.**
 
 <h3 align="left">Connect with me:</h3>
