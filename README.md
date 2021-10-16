@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, NextJs, Data Structures & Algorithms.**
 
-- 💬 Ask me about **Naruto or HunterxHunter.**
+- 💬 Ask me about **Naruto, HunterxHunter, or random Space logic.**
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
