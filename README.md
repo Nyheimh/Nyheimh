@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3.**
 
-- 💬 Ask me about ** Anime.**
+- 💬 Ask me about **career pivoting.**
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
