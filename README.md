@@ -1,7 +1,7 @@
-<h1 align="center">Hi👋🏾, I'm Nyheim Hunter</h1>
-<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have an extensive knowledge in Javascript, React, Node.Js, and Ruby on Rails.</h3>
+<h1 align="center">Hi, I'm Nyheim Hunter 👋🏾</h1>
+<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have an extensive knowledge in Javascript, React, Typescript, and Ruby on Rails with experience in GoLang.</h3>
 
-- 🔭 I’m currently working on **developing my ReactJs skills.**
+- 🔭 I’m currently working on **developing a web application that could help ease my cooking skills.**
 
 <!-- - 🌱 I’m currently learning **Web3.** -->
 
