@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Nyheim Hunter 👋🏾</h1>
-<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have an extensive knowledge in Javascript, React, Typescript, and Ruby on Rails with experience in GoLang.</h3>
+<h3 align="center">I’m a Software Engineer, proficient in Full Stack development. I have extensive knowledge in  React, Typescript, and Ruby on Rails with experience in GoLang.</h3>
 
 - 🔭 I’m currently working on **Happy Tummy**
 
-<!-- - 🌱 I’m currently learning **Web3.** -->
+- 🌱 I’m currently learning **Nest.js.** 
 
 - 💬 Ask me about **career pivoting.**
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
-- ⚡ Fun fact **I love plants, animals, and being outdoorsy.**
+- ⚡ Fun fact **I love plants, animals, and being outdoors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
