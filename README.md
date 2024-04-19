@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js and expanding React Native knowledge.** 
 
-- 💬 Ask me about **career pivoting.**
+- 💬 Ask me about **career pivoting or passions.**
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
