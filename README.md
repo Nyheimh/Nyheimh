@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Happy Tummy 😋 (Web App) & Pawsitive Pairing 🐾 (Mobile App)**
 
-- 🌱 I’m currently learning **Nest.js and expanding React Native knowledge.** 
+- 🌱 My current interests ** Ruby on Rails and expanding React Native knowledge.** 
 
 - 💬 Ask me about **career pivoting or passions.**
 
