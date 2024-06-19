@@ -5,7 +5,7 @@
 
 - 🌱 My current interests **expanding React Native and Nest.Js(NodeJS) knowledge.** 
 
-- 💬 Ask me about **career pivoting or passions.**
+- 💬 Ask me about **career pivoting to pursue your passion.**
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
