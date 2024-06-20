@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nyheim Hunter 👋🏾</h1>
-<h3 align="center">I’m a Full Stack Software Engineer, I have extensive knowledge in  React, Typescript, React Native, and Ruby on Rails with experience in GoLang.</h3>
+<h3 align="center">I’m a Full Stack Software Engineer, I have knowledge in  React, Typescript, React Native, and Ruby on Rails with experience in GoLang.</h3>
 
 - 🔭 I’m currently working on **Happy Tummy 😋 (Web App) & Pawsitive Pairing 🐾 (Mobile App)**
 
-- 🌱 My current interests **expanding React Native and Nest.Js(NodeJS) knowledge.** 
+- 🌱 My current interests **expanding React Native and NestJS knowledge.** 
 
 - 💬 Ask me about **career pivoting to pursue your passion.**
 
