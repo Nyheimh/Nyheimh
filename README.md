@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nyheimhunter@gmail.com**
 
-- ⚡ Fun facts **I love Super Smash Bros, fantasy football, and Nature.**
+- ⚡ Fun facts **I love Super Smash Bros, fantasy football, & Nature.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
