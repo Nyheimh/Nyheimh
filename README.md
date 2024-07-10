@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=5000&pause=1000&color=0837B1&center=true&random=false&width=466&height=80&lines=Hi%2C+I'm+Nyheim+Hunter+%F0%9F%91%8B%F0%9F%8F%BE;Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Happy Tummy 😋 (Web App) & Pawsitive Pairing 🐾 (Mobile App)**
+- 🔭 I’m currently working on **Pawsitive Pairing 🐾 (Mobile App)**
 
 - 🌱 My current interests **expanding React Native and NestJS knowledge.** 
 
