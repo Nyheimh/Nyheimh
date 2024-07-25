@@ -2,7 +2,7 @@
 
 <h2 align="left">Quick Information </h2>
 
-- 🔭 I’m currently working on **Pawsitive Pairing 🐾 (Mobile Application)**
+- 🔭 I’m currently working on **Pawsitive Pairing 🐾 (Mobile Application)**.
 
 - 🌱 My current interests **expanding React Native and NestJS knowledge.** 
 
